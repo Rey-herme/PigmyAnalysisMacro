@@ -1,0 +1,7 @@
+# ignore all root files
+*.root
+
+# except the files containting cuts
+!sel_monster_n.root
+
+*.d
