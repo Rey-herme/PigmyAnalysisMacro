@@ -27,6 +27,8 @@
 
 using namespace std;
 
+
+
 void printProgBar(float percent){
   std::string bar;
 
