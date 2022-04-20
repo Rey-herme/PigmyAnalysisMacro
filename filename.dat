@@ -1,0 +1,63 @@
+#Run Ce Target bool trigger
+#../root/run049_merger.root
+#../root/run050_merger.root
+#../root/run051_merger.root
+#../root/run053_merger.root
+#../root/run054_merger.root
+#../root/run055_merger.root
+#../root/run057_merger.root
+#../root/run058_merger.root
+#../root/run059_merger.root
+#../root/run060_merger.root
+#../root/run062_merger.root
+#../root/run063_merger.root
+#../root/run064_merger.root
+#../root/run065_merger.root
+#../root/run067_merger.root
+#../root/run068_merger.root
+#../root/run069_merger.root
+#../root/run070_merger.root
+#../root/run071_merger.root
+#../root/run083_merger.root
+#../root/run084_merger.root
+#../root/run085_merger.root
+#../root/run086_merger.root
+#../root/run087_merger.root
+#../root/run088_merger.root
+#../root/run089_merger.root
+#../root/run090_merger.root
+#../root/run092_merger.root
+#../root/run093_merger.root
+#../root/run094_merger.root
+#../root/run097_merger.root
+#../root/run098_merger.root
+#../root/run099_merger.root
+#../root/run100_merger.root
+#../root/run102_merger.root
+#../root/run103_merger.root
+#Run C Target bool trigger
+#../root/run109_merger.root
+#../root/run110_merger.root
+#../root/run111_merger.root
+#../root/run112_merger.root
+#../root/run113_merger.root
+#../root/run114_merger.root
+#../root/run115_merger.root
+#../root/run116_merger.root
+#Run Aluminium bool trigger
+#../root/run072_merger.root
+#../root/run073_merger.root
+#../root/run076_merger.root
+#../root/run077_merger.root
+#../root/run078_merger.root
+#../root/run079_merger.root
+#../root/run080_merger.root
+#../root/run081_merger.root
+#../root/run082_merger.root
+#Run Be converter
+../root/run104_merger.root
+#../root/run105_merger.root
+#Run Co source
+#../root/run121_0001.root
+#../root/run121_0002.root
+#../root/run121_0003.root
